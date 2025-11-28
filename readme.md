@@ -1,0 +1,1 @@
+This is the branch which is created without conflicts
